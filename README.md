@@ -25,7 +25,7 @@ To get an imagination how you handle data challenges, please try to solve follow
 
 Some Remarks:
 - this task should not take more than 2 hours
-- use can use this github repository completely: feel free to perform commits and pushes like you prefer
+- you can use this github repository like you prefer: feel free to perform commits and pushes
 - try to find a good project design (more important than solving each edge case)
 - think about performance
 - be able to explain why you doing stuff
